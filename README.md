@@ -1,2 +1,2 @@
 # pdf-keyword-seeker
-finding lines containing all keywords provided in a pdf file
+finding the lines containing all keywords desired in a certain pdf file
